@@ -1,0 +1,35 @@
+h1 {
+    text-align:center;
+    color: red;
+    font-weight: bolder
+    
+}
+
+p{
+    text-align: center;
+    font-weight: bolder;
+}
+
+div {
+    background-color: red;
+    height: 400px;
+    width: 1000px;
+    margin:100px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+#jcole{
+    float: left;
+}
+
+#jc{
+    float:right;
+}
